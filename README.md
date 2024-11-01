@@ -2,12 +2,12 @@
 
 👋 I’m a first-year Ph.D. student in Computer Science at Columbia University, currently focusing on **Zero Knowledge Proofs**.
 
-### 🚀 Projects & Open-Source 
+### 🚀 Notable Projects
 - **[AIJack](https://github.com/Koukyosyumei/AIJack)**: Security risk simulator for machine learning (300+ stars on GitHub, referenced in 8+ papers)
 - **[rhoevm](https://github.com/Koukyosyumei/rhoevm)**: Symbolic EVM execution engine in Rust to uncover Ethereum smart contract vulnerabilities
 - **[MyDisassembler](https://github.com/Koukyosyumei/MyDisassembler)** Disassembler for X86-64 implemented from scratch
 
-### 📄 Publications  
+### 📄 Selected Publications  
 - **AAMAS '24** 📝: *On the Transit Obfuscation Problem*, w/ Alex Fukunaga  
 - **ICLR '24** 📖: *VFLAIR: Benchmark for Vertical Federated Learning*, w/ Tianyuan Zou, Zixuan Gu, et al.  
 - **CVPR '23** 🎥: *Breaching FedMD, Image Recovery via Paired-Logits Inversion Attack*, w/ Jingjing Liu & Yang Liu  
