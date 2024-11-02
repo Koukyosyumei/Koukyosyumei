@@ -8,8 +8,8 @@
 - **[MyDisassembler](https://github.com/Koukyosyumei/MyDisassembler)** Disassembler for X86-64 implemented from scratch
 
 ### 📄 Selected Publications  
-- **[AAMAS '24]** 📝: *On the Transit Obfuscation Problem*, w/ Alex Fukunaga  
-- **[ICLR '24]** 📖: *VFLAIR: Benchmark for Vertical Federated Learning*, w/ Tianyuan Zou, Zixuan Gu, et al.  
+- **[AAMAS '24]** ♑: *On the Transit Obfuscation Problem*, w/ Alex Fukunaga  
+- **[ICLR '24]** 🌳: *VFLAIR: Benchmark for Vertical Federated Learning*, w/ Tianyuan Zou, Zixuan Gu, et al.  
 - **[CVPR '23]** 🎥: *Breaching FedMD, Image Recovery via Paired-Logits Inversion Attack*, w/ Jingjing Liu & Yang Liu  
 View my full list on [Semantic Scholar](https://www.semanticscholar.org/author/Hideaki-Takahashi/2224016223) | [Google Scholar](https://scholar.google.com/citations?user=RA3z3UEAAAAJ)
 
