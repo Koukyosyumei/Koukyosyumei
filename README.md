@@ -1,5 +1,7 @@
 # Hideaki Takahashi 🌍
 
+![](https://komarev.com/ghpvc/?username=Koukyosyumei)
+
 👋 I’m a first-year Ph.D. student in Computer Science at Columbia University, currently focusing on **Zero Knowledge Proofs**.
 
 ### 🚀 Notable Projects
