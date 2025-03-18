@@ -13,9 +13,6 @@
 - **[CVPR '23]** 🎥: *Breaching FedMD, Image Recovery via Paired-Logits Inversion Attack*, w/ Jingjing Liu & Yang Liu  
 View my full list on [Semantic Scholar](https://www.semanticscholar.org/author/Hideaki-Takahashi/2224016223) | [Google Scholar](https://scholar.google.com/citations?user=RA3z3UEAAAAJ)
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Koukyosyumei&theme=2077
-
-<!--[![](https://raw.githubusercontent.com/Koukyosyumei/Koukyosyumei/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)-->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Koukyosyumei&theme=nord_dark"> <img src="https://raw.githubusercontent.com/Koukyosyumei/Koukyosyumei/main/profile-summary-card-output/nord_dark/3-stats.svg">
 
 
