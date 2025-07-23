@@ -12,7 +12,7 @@
 - **[ICLR '24]** 🌳: *VFLAIR: Benchmark for Vertical Federated Learning*, w/ Tianyuan Zou, Zixuan Gu, et al.  
 - **[CVPR '23]** 🎥: *Breaching FedMD, Image Recovery via Paired-Logits Inversion Attack*, w/ Jingjing Liu & Yang Liu
 
-View my full list on [Semantic Scholar](https://www.semanticscholar.org/author/Hideaki-Takahashi/2224016223) | [Google Scholar](https://scholar.google.com/citations?user=RA3z3UEAAAAJ)
+View my full list on [Google Scholar](https://scholar.google.com/citations?user=RA3z3UEAAAAJ) | [Semantic Scholar](https://www.semanticscholar.org/author/Hideaki-Takahashi/2224016223)
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Koukyosyumei&theme=nord_dark"> <img src="https://raw.githubusercontent.com/Koukyosyumei/Koukyosyumei/main/profile-summary-card-output/nord_dark/3-stats.svg">
 
