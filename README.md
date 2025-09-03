@@ -1,6 +1,6 @@
 # Hideaki Takahashi 🌍
 
-👋 I’m a first-year Ph.D. student in Computer Science at Columbia University, currently focusing on **Zero Knowledge Proofs**.
+👋 I’m a second-year Ph.D. student in Computer Science at Columbia University, currently focusing on **Zero Knowledge Proofs**.
 
 ### 🚀 Notable Projects
 - **[zkFuzz](https://github.com/Koukyosyumei/zkFuzz)**: ZK circuit fuzzer (60+ confirmed bugs)
