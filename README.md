@@ -4,7 +4,7 @@
 
 ### 🚀 Notable Projects
 - **[zkFuzz](https://github.com/Koukyosyumei/zkFuzz)**: ZK circuit fuzzer (60+ confirmed bugs)
-- **[AIJack](https://github.com/Koukyosyumei/AIJack)**: Security risk simulator for machine learning (300+ stars on GitHub, 10K downloads, referenced in 8+ papers)
+- **[AIJack](https://github.com/Koukyosyumei/AIJack)**: Security risk simulator for machine learning (400+ stars on GitHub, 10K+ downloads, referenced in 10+ papers)
 - **[rhoevm](https://github.com/Koukyosyumei/rhoevm)**: Symbolic EVM execution engine in Rust to uncover Ethereum smart contract vulnerabilities
 
 ### 📄 Selected Publications  
