@@ -8,10 +8,10 @@
 - **[rhoevm](https://github.com/Koukyosyumei/rhoevm)**: Symbolic EVM execution engine in Rust to uncover Ethereum smart contract vulnerabilities
 
 ### 📄 Selected Publications  
-- **[IEEE S&P '26]** 0️⃣: *zkFuzz: Foundation and Framework for Effective Fuzzing of Zero-Knowledge Circuits*, w/ Jihwan Kim, Suman Jana, & Junfeng Yang
-- **[AAMAS '24]** 🚗: *On the Transit Obfuscation Problem*, w/ Alex Fukunaga  
-- **[ICLR '24]** 🌳: *VFLAIR: Benchmark for Vertical Federated Learning*, w/ Tianyuan Zou, Zixuan Gu, et al.  
-- **[CVPR '23]** 🎥: *Breaching FedMD, Image Recovery via Paired-Logits Inversion Attack*, w/ Jingjing Liu & Yang Liu
+- **[IEEE S&P '26]** 0️⃣: *zkFuzz: Foundation and Framework for Effective Fuzzing of Zero-Knowledge Circuits*
+- **[AAMAS '24]** 🚗: *On the Transit Obfuscation Problem* 
+- **[ICLR '24]** 🌳: *VFLAIR: Benchmark for Vertical Federated Learning*
+- **[CVPR '23]** 🎥: *Breaching FedMD, Image Recovery via Paired-Logits Inversion Attack*
 
 View my full list on [Google Scholar](https://scholar.google.com/citations?user=RA3z3UEAAAAJ).
 
