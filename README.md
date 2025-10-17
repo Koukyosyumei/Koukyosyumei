@@ -8,10 +8,18 @@
 - **[rhoevm](https://github.com/Koukyosyumei/rhoevm)**: Symbolic EVM execution engine in Rust to uncover Ethereum smart contract vulnerabilities
 
 ### 📄 Selected Publications  
-- **[IEEE S&P '26]** 0️⃣: [*zkFuzz: Foundation and Framework for Effective Fuzzing of Zero-Knowledge Circuits*](https://arxiv.org/pdf/2504.11961) (Hideaki Takahashi*, Jihwan Kim, Suman Jana, Junfeng Yang)
-- **[AAMAS '24]** 🚗: [*On the Transit Obfuscation Problem*](https://arxiv.org/pdf/2402.07420) (Hideaki Takahashi*, Alex Fukunaga)
-- **[ICLR '24]** 🌳: [*VFLAIR: Benchmark for Vertical Federated Learning*](https://arxiv.org/pdf/2310.09827) (Zou, Tianyuan, Zixuan Gu, Yuanqin He, Hideaki Takahashi, Yang Liu, Guangnan Ye and Ya-Qin Zhang)
-- **[CVPR '23]** 🎥: [*Breaching FedMD, Image Recovery via Paired-Logits Inversion Attack*](https://openaccess.thecvf.com/content/CVPR2023/papers/Takahashi_Breaching_FedMD_Image_Recovery_via_Paired-Logits_Inversion_Attack_CVPR_2023_paper.pdf) (Hideaki Takahashi*, Jingjing Liu, and Yang Liu)
+- **[IEEE S&P '26]** 0️⃣: *zkFuzz: Foundation and Framework for Effective Fuzzing of Zero-Knowledge Circuits*
+  - Hideaki Takahashi*, Jihwan Kim, Suman Jana, Junfeng Yang
+  - [paper](https://arxiv.org/pdf/2504.11961)
+- **[AAMAS '24]** 🚗: *On the Transit Obfuscation Problem*
+  - Hideaki Takahashi*, Alex Fukunaga)
+  - [paper](https://arxiv.org/pdf/2402.07420)
+- **[ICLR '24]** 🌳: *VFLAIR: Benchmark for Vertical Federated Learning*
+  - Zou, Tianyuan, Zixuan Gu, Yuanqin He, Hideaki Takahashi, Yang Liu, Guangnan Ye, and Ya-Qin Zhang
+  - [paper](https://arxiv.org/pdf/2310.09827)
+- **[CVPR '23]** 🎥: *Breaching FedMD, Image Recovery via Paired-Logits Inversion Attack*
+  - Hideaki Takahashi*, Jingjing Liu, and Yang Liu
+  - [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Takahashi_Breaching_FedMD_Image_Recovery_via_Paired-Logits_Inversion_Attack_CVPR_2023_paper.pdf)
 
 View my full list on [Google Scholar](https://scholar.google.com/citations?user=RA3z3UEAAAAJ).
 
