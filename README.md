@@ -10,16 +10,13 @@
 ### 📄 Selected Publications  
 - **[IEEE S&P '26]** 0️⃣: *zkFuzz: Foundation and Framework for Effective Fuzzing of Zero-Knowledge Circuits*
   - Hideaki Takahashi*, Jihwan Kim, Suman Jana, Junfeng Yang
-  - [paper](https://arxiv.org/pdf/2504.11961)
+  - [paper](https://arxiv.org/pdf/2504.11961), [code])(
 - **[AAMAS '24]** 🚗: *On the Transit Obfuscation Problem*
   - Hideaki Takahashi*, Alex Fukunaga)
-  - [paper](https://arxiv.org/pdf/2402.07420)
-- **[ICLR '24]** 🌳: *VFLAIR: Benchmark for Vertical Federated Learning*
-  - Zou, Tianyuan, Zixuan Gu, Yuanqin He, Hideaki Takahashi, Yang Liu, Guangnan Ye, and Ya-Qin Zhang
-  - [paper](https://arxiv.org/pdf/2310.09827)
+  - [paper](https://arxiv.org/pdf/2402.07420), [code])(
 - **[CVPR '23]** 🎥: *Breaching FedMD, Image Recovery via Paired-Logits Inversion Attack*
   - Hideaki Takahashi*, Jingjing Liu, and Yang Liu
-  - [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Takahashi_Breaching_FedMD_Image_Recovery_via_Paired-Logits_Inversion_Attack_CVPR_2023_paper.pdf)
+  - [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Takahashi_Breaching_FedMD_Image_Recovery_via_Paired-Logits_Inversion_Attack_CVPR_2023_paper.pdf), [code])(
 
 View my full list on [Google Scholar](https://scholar.google.com/citations?user=RA3z3UEAAAAJ).
 
