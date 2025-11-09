@@ -17,6 +17,18 @@
 
 View my full list on [Google Scholar](https://scholar.google.com/citations?user=RA3z3UEAAAAJ).
 
+### 🐛 Notable Bugs Found
+
+I’ve discovered and responsibly reported 80+ vulnerabilities in real-world ZK projects. 
+Some confirmed and fixed cases include:
+
+- https://github.com/lita-xyz/valida-vm/issues/16
+- https://github.com/lita-xyz/valida-vm/issues/13
+- https://github.com/aptos-labs/keyless-zk-proofs/issues/50
+- https://github.com/siv-org/verifiable-private-overrides/pull/13
+- https://github.com/rarimo/passport-zk-circuits/pull/60
+
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Koukyosyumei&theme=nord_dark"> <img src="https://raw.githubusercontent.com/Koukyosyumei/Koukyosyumei/main/profile-summary-card-output/nord_dark/3-stats.svg">
 
 
