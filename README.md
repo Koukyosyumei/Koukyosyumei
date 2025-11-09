@@ -10,7 +10,7 @@
 
 ### 🐛 Notable Bugs Found
 
-I’ve discovered and responsibly reported 80+ vulnerabilities in real-world ZK projects. 
+I’ve discovered and responsibly reported 70+ vulnerabilities in real-world ZK projects. 
 Some confirmed and fixed cases include:
 
 - https://github.com/lita-xyz/valida-vm/issues/16
