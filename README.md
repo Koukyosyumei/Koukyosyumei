@@ -24,6 +24,8 @@ Some confirmed and fixed cases include:
   - Hideaki Takahashi*, Jihwan Kim, Suman Jana, Junfeng Yang | [paper](https://arxiv.org/pdf/2504.11961) | [code](https://github.com/Koukyosyumei/zkFuzz)
 - **[AAMAS '24]** 🚗: *On the Transit Obfuscation Problem*
   - Hideaki Takahashi*, Alex Fukunaga | [paper](https://arxiv.org/pdf/2402.07420) | [code](https://github.com/Koukyosyumei/TOP)
+- **[ICLR '24]** 🌳: *VFLAIR: Benchmark for Vertical Federated Learning*
+  - Tianyuan Zou, Zixuan Gu, Yu He, Hideaki Takahashi*, Yang Liu, Ya-Qin Zhang | [paper](https://arxiv.org/abs/2310.09827) | [code](https://github.com/FLAIR-THU/VFLAIR)
 - **[CVPR '23]** 🎥: *Breaching FedMD, Image Recovery via Paired-Logits Inversion Attack*
   - Hideaki Takahashi*, Jingjing Liu, and Yang Liu | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Takahashi_Breaching_FedMD_Image_Recovery_via_Paired-Logits_Inversion_Attack_CVPR_2023_paper.pdf) | [code](https://github.com/FLAIR-THU/PairedLogitsInversion)
 
