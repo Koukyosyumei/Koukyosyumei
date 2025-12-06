@@ -4,6 +4,7 @@
 
 ### 🚀 Featured Projects
 - **[zkFuzz](https://github.com/Koukyosyumei/zkFuzz)**: ZK circuit fuzzer (60+ confirmed bugs)
+- **[Runwai](https://github.com/Koukyosyumei/Runwai)**: Refinement-typed DSL for certified AIR constraints and lookups implemented in Lean4
 - **[AIJack](https://github.com/Koukyosyumei/AIJack)**: Security risk simulator for machine learning (400+ stars on GitHub, 10K+ downloads, referenced in 10+ papers)
 - **[rhoevm](https://github.com/Koukyosyumei/rhoevm)**: Symbolic EVM execution engine written in Rust to uncover Ethereum smart contract vulnerabilities
 - **[MyZKP](https://github.com/Koukyosyumei/MyZKP)**: Tutorial e-book to implement zero-knowledge proofs from scratch using Rust and CUDA.
