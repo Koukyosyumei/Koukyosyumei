@@ -1,6 +1,6 @@
 # Hideaki Takahashi 🌍
 
-👋 I’m a second-year Ph.D. student in Computer Science at Columbia University, currently focusing on **Zero Knowledge Proofs**.
+I’m a second-year Ph.D. student in Computer Science at Columbia University, currently focusing on **Zero Knowledge Proofs**.
 
 **Keywords** Cryptography, Zero Knowledge Proof, Software Testing, Rust, Lean4, CUDA.
 
