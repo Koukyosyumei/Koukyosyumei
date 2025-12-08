@@ -31,8 +31,8 @@ Some confirmed and fixed cases include:
 
 ### ✍️ Blog Posts
 
-- [Formal Verification of Blockchain Consensus Algorithms in Lean 4](https://medium.com/@Koukyosyumei/from-paper-to-proof-how-we-can-formally-verify-blockchain-protocols-with-lean4-part-1-a7b3d0fc563f)
-- [Learning x86–64 Machine Language and Assembly by Implementing a Disassembler](https://medium.com/@Koukyosyumei/learning-x86-64-machine-language-and-assembly-by-implementing-a-disassembler-dccc736ae85f)
+- Formal Verification of Blockchain Consensus Algorithms in Lean 4 | [blog](https://medium.com/@Koukyosyumei/from-paper-to-proof-how-we-can-formally-verify-blockchain-protocols-with-lean4-part-1-a7b3d0fc563f) | [code](https://github.com/Koukyosyumei/PoL)
+- Learning x86–64 Machine Language and Assembly by Implementing a Disassembler | [blog](https://medium.com/@Koukyosyumei/learning-x86-64-machine-language-and-assembly-by-implementing-a-disassembler-dccc736ae85f) | [code](https://github.com/Koukyosyumei/MyDisassembler)
 
 ---
 
