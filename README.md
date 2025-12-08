@@ -19,7 +19,7 @@ Some confirmed and fixed cases include:
 - https://github.com/siv-org/verifiable-private-overrides/pull/13
 - https://github.com/rarimo/passport-zk-circuits/pull/60
 
-### 📄 Selected Publications  
+### 📄 Selected Publications
 - **[IEEE S&P '26]** 0️⃣: *zkFuzz: Foundation and Framework for Effective Fuzzing of Zero-Knowledge Circuits*
   - Hideaki Takahashi*, Jihwan Kim, Suman Jana, Junfeng Yang | [paper](https://arxiv.org/pdf/2504.11961) | [code](https://github.com/Koukyosyumei/zkFuzz)
 - **[AAMAS '24]** 🚗: *On the Transit Obfuscation Problem*
@@ -29,7 +29,10 @@ Some confirmed and fixed cases include:
 - **[CVPR '23]** 🎥: *Breaching FedMD, Image Recovery via Paired-Logits Inversion Attack*
   - Hideaki Takahashi*, Jingjing Liu, and Yang Liu | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Takahashi_Breaching_FedMD_Image_Recovery_via_Paired-Logits_Inversion_Attack_CVPR_2023_paper.pdf) | [code](https://github.com/FLAIR-THU/PairedLogitsInversion)
 
-View my full list on [Google Scholar](https://scholar.google.com/citations?user=RA3z3UEAAAAJ).
+### ✍️ Blog Posts
+
+- [Formal Verification of Blockchain Consensus Algorithms in Lean 4](https://medium.com/@Koukyosyumei/from-paper-to-proof-how-we-can-formally-verify-blockchain-protocols-with-lean4-part-1-a7b3d0fc563f)
+- [Learning x86–64 Machine Language and Assembly by Implementing a Disassembler](https://medium.com/@Koukyosyumei/learning-x86-64-machine-language-and-assembly-by-implementing-a-disassembler-dccc736ae85f)
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Koukyosyumei&theme=nord_dark"> <img src="https://raw.githubusercontent.com/Koukyosyumei/Koukyosyumei/main/profile-summary-card-output/nord_dark/3-stats.svg">
 
