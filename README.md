@@ -5,7 +5,7 @@ I’m a second-year Ph.D. student in Computer Science at Columbia University, cu
 **Keywords:** Cryptography, Zero Knowledge Proof, Software Testing, Fuzzing, Formal Verification, Rust, Lean4
 
 ### 🚀 Featured Projects
-- **[zkFuzz](https://github.com/Koukyosyumei/zkFuzz)**: ZK circuit fuzzer (IEEE S&P'26, 60+ confirmed bugs)
+- **[zkFuzz](https://zkfuzz.xyz/)**: ZK circuit fuzzer (IEEE S&P'26, 60+ confirmed bugs)
 - **[Runwai](https://github.com/Koukyosyumei/Runwai)**: Refinement-typed DSL for certified AIR constraints and lookups implemented in Lean4
 - **[MyZKP](https://github.com/Koukyosyumei/MyZKP)**: Tutorial e-book to implement zero-knowledge proofs from scratch using Rust and CUDA.
 - **[AIJack](https://github.com/Koukyosyumei/AIJack)**: Security risk simulator for machine learning (400+ stars on GitHub, 10K+ downloads, referenced in 10+ papers)
