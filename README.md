@@ -10,17 +10,6 @@ I’m a second-year Ph.D. student in Computer Science at Columbia University, cu
 - **[MyZKP](https://koukyosyumei.github.io/MyZKP/)**: Tutorial e-book to implement zero-knowledge proofs from scratch using Rust and CUDA.
 - **[AIJack](https://koukyosyumei.github.io/AIJack/)**: Security risk simulator for machine learning (400+ stars on GitHub, 10K+ downloads, referenced in 10+ papers)
 
-### 🐛 Notable Bugs Found
-
-I’ve discovered and responsibly reported 70+ vulnerabilities in real-world ZK projects. 
-Some confirmed and fixed cases include:
-
-- https://github.com/lita-xyz/valida-vm/issues/16
-- https://github.com/lita-xyz/valida-vm/issues/13
-- https://github.com/aptos-labs/keyless-zk-proofs/issues/50
-- https://github.com/siv-org/verifiable-private-overrides/pull/13
-- https://github.com/rarimo/passport-zk-circuits/pull/60
-
 ### 📄 Selected Publications
 - **[IEEE S&P '26]** 0️⃣: *zkFuzz: Foundation and Framework for Effective Fuzzing of Zero-Knowledge Circuits*
   - Hideaki Takahashi*, Jihwan Kim, Suman Jana, Junfeng Yang | [paper](https://arxiv.org/pdf/2504.11961) | [code](https://github.com/Koukyosyumei/zkFuzz)
