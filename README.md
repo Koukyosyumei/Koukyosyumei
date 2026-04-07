@@ -1,8 +1,8 @@
 # Hideaki Takahashi 🌍
 
-I’m a second-year Ph.D. student in Computer Science at Columbia University, currently focusing on **Zero Knowledge Proofs**.
+I’m a second-year Ph.D. student in Computer Science at Columbia University, currently focusing on the security of **Zero Knowledge Proofs** and *MCP Server*.
 
-**Keywords:** Cryptography, Zero Knowledge Proof, Software Testing, Fuzzing, Formal Verification, Rust, Lean4
+**Keywords:** Cryptography, Zero Knowledge Proof, Machine Learning, Software Testing, Fuzzing, Formal Verification, Rust, Lean4
 
 ### 🚀 Featured Projects
 - **[zkFuzz](https://zkfuzz.xyz/)**: ZK circuit fuzzer (IEEE S&P'26, 60+ confirmed bugs)
