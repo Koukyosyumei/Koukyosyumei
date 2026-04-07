@@ -1,6 +1,6 @@
 # Hideaki Takahashi 🌍
 
-I’m a Ph.D. student in Computer Science at Columbia University, currently focusing on the security of **Zero Knowledge Proofs** and **MCP Server**.
+I’m a Ph.D. student in Computer Science at Columbia University, currently focusing on **Zero Knowledge Proofs** and **MCP Server**.
 
 **Keywords:** Cryptography, Zero Knowledge Proof, Machine Learning, Software Testing, Fuzzing, Formal Verification, Rust, Lean4
 
