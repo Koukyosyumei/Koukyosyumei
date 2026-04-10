@@ -22,7 +22,7 @@ I’m a Ph.D. student in Computer Science at Columbia University working on soft
 
 ### 🐛 Selected Security Findings
 
-#### AI Agents / MCP servers
+#### AI Agent / MCP servers
 
 - https://github.com/bethington/ghidra-mcp/issues/107
 - https://github.com/bytebase/dbhub/issues/304
