@@ -20,6 +20,20 @@ I’m a Ph.D. student in Computer Science at Columbia University working on soft
 - **[CVPR '23]** 🎥: *Breaching FedMD, Image Recovery via Paired-Logits Inversion Attack*
   - **Hideaki Takahashi**, Jingjing Liu, and Yang Liu | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Takahashi_Breaching_FedMD_Image_Recovery_via_Paired-Logits_Inversion_Attack_CVPR_2023_paper.pdf) | [code](https://github.com/FLAIR-THU/PairedLogitsInversion)
 
+### 🐛 Selected Security Findings
+
+#### AI Agents / MCP servers
+
+- https://github.com/bethington/ghidra-mcp/issues/107
+- https://github.com/bytebase/dbhub/issues/304
+- https://github.com/ankimcp/anki-mcp-server/pull/25
+
+#### Cryptography / MCP server
+
+- https://github.com/worm-privacy/proof-of-burn/issues/1
+- https://github.com/rarimo/passport-zk-circuits/pull/60
+- https://github.com/lita-xyz/valida-vm/issues/16
+
 ### ✍️ Pinned Blog Posts
 
 - Formal Verification of Blockchain Consensus Algorithms in Lean 4 | [blog](https://medium.com/@Koukyosyumei/from-paper-to-proof-how-we-can-formally-verify-blockchain-protocols-with-lean4-part-1-a7b3d0fc563f) | [code](https://github.com/Koukyosyumei/PoL)
