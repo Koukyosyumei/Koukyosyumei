@@ -28,7 +28,7 @@ I’m a Ph.D. student in Computer Science at Columbia University working on soft
 - https://github.com/bytebase/dbhub/issues/304
 - https://github.com/ankimcp/anki-mcp-server/pull/25
 
-#### Cryptography / MCP server
+#### Cryptography / Zero-Knowledge Proof
 
 - https://github.com/worm-privacy/proof-of-burn/issues/1
 - https://github.com/rarimo/passport-zk-circuits/pull/60
