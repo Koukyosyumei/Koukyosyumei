@@ -34,6 +34,7 @@ I’m a Ph.D. student in Computer Science at Columbia University working on soft
 - https://github.com/worm-privacy/proof-of-burn/issues/1
 - https://github.com/rarimo/passport-zk-circuits/pull/60
 - https://github.com/lita-xyz/valida-vm/issues/16
+- https://github.com/inference-labs-inc/subnet-2-circom/pull/2
 
 ### ✍️ Pinned Blog Posts
 
