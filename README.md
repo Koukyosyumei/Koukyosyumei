@@ -1,6 +1,6 @@
 # Hideaki Takahashi 🌍
 
-I’m a Ph.D. student in Computer Science at Columbia University working on software security, cryptography, and machine learning.
+I’m a Ph.D. student in Computer Science at Columbia University working on software security, cryptography, and agentic systems.
 
 **Keywords:** Cryptography, Zero Knowledge Proof, Machine Learning, Software Testing, Fuzzing, Formal Verification, Rust, Lean4
 
