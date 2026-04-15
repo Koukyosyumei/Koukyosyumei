@@ -24,7 +24,7 @@ I’m a Ph.D. student in Computer Science at Columbia University working on soft
 
 #### AI Agent / MCP servers
 
-- https://github.com/DayuanJiang/next-ai-draw-io/security/advisories/GHSA-9q7h-wgfw-p378
+- [CVE-2026-40608](https://github.com/DayuanJiang/next-ai-draw-io/security/advisories/GHSA-9q7h-wgfw-p378)
 - https://github.com/bethington/ghidra-mcp/issues/107
 - https://github.com/bytebase/dbhub/issues/304
 - https://github.com/ankimcp/anki-mcp-server/pull/25
