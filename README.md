@@ -10,6 +10,9 @@ I’m a Ph.D. student in Computer Science at Columbia University working on soft
 - **[MyZKP](https://koukyosyumei.github.io/MyZKP/)**: Tutorial e-book to implement zero-knowledge proofs from scratch using Rust and CUDA.
 - **[AIJack](https://koukyosyumei.github.io/AIJack/)**: Security risk simulator for machine learning (400+ stars on GitHub, 10K+ downloads, referenced in 10+ papers)
 - **[KaijuLab](https://github.com/KaijuLab/KaijuLab)**: AI-powered Reverse Engineering Lab
+
+---
+
 ### 📄 Selected Publications
 - **[IEEE S&P '26]** 0️⃣: *zkFuzz: Foundation and Framework for Effective Fuzzing of Zero-Knowledge Circuits*
   - **Hideaki Takahashi**, Jihwan Kim, Suman Jana, Junfeng Yang | [paper](https://arxiv.org/pdf/2504.11961) | [code](https://github.com/Koukyosyumei/zkFuzz)
@@ -19,6 +22,8 @@ I’m a Ph.D. student in Computer Science at Columbia University working on soft
   - Tianyuan Zou, Zixuan Gu, Yu He, **Hideaki Takahashi**, Yang Liu, Ya-Qin Zhang | [paper](https://arxiv.org/abs/2310.09827) | [code](https://github.com/FLAIR-THU/VFLAIR)
 - **[CVPR '23]** 🎥: *Breaching FedMD, Image Recovery via Paired-Logits Inversion Attack*
   - **Hideaki Takahashi**, Jingjing Liu, and Yang Liu | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Takahashi_Breaching_FedMD_Image_Recovery_via_Paired-Logits_Inversion_Attack_CVPR_2023_paper.pdf) | [code](https://github.com/FLAIR-THU/PairedLogitsInversion)
+
+---
 
 ### 🐛 Selected Security Findings
 
@@ -35,6 +40,8 @@ I’m a Ph.D. student in Computer Science at Columbia University working on soft
 - https://github.com/rarimo/passport-zk-circuits/pull/60
 - https://github.com/lita-xyz/valida-vm/issues/16
 - https://github.com/inference-labs-inc/subnet-2-circom/pull/2
+
+---
 
 ### ✍️ Pinned Blog Posts
 
