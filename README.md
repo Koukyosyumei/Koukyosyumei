@@ -41,9 +41,5 @@ I’m a Ph.D. student in Computer Science at Columbia University working on soft
 - Formal Verification of Blockchain Consensus Algorithms in Lean 4 | [blog](https://medium.com/@Koukyosyumei/from-paper-to-proof-how-we-can-formally-verify-blockchain-protocols-with-lean4-part-1-a7b3d0fc563f) | [code](https://github.com/Koukyosyumei/PoL)
 - Learning x86–64 Machine Language and Assembly by Implementing a Disassembler | [blog](https://medium.com/@Koukyosyumei/learning-x86-64-machine-language-and-assembly-by-implementing-a-disassembler-dccc736ae85f) | [code](https://github.com/Koukyosyumei/MyDisassembler)
 
----
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Koukyosyumei&theme=nord_dark"> <img src="https://raw.githubusercontent.com/Koukyosyumei/Koukyosyumei/main/profile-summary-card-output/nord_dark/3-stats.svg">
-
 
 
