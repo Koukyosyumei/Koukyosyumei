@@ -28,7 +28,6 @@ I’m a Ph.D. student in Computer Science at Columbia University working on soft
 - https://github.com/Coding-Solo/godot-mcp/issues/95
 - https://github.com/bethington/ghidra-mcp/issues/107
 - https://github.com/bytebase/dbhub/issues/304
-- https://github.com/ankimcp/anki-mcp-server/pull/25
 
 #### Cryptography / Zero-Knowledge Proof
 
