@@ -2,7 +2,9 @@
 
 I’m a Ph.D. student in Computer Science at Columbia University working on software security, cryptography, and agentic systems.
 
-**Keywords:** Cryptography, Zero Knowledge Proof, Machine Learning, Software Testing, Fuzzing, Formal Verification, Rust, Lean4
+**Keywords:** Software Testing, Fuzzing, Formal Verification, AI, Agent, Cryptography, Zero Knowledge Proof, Rust, Lean4
+
+---
 
 ### 🚀 Featured Projects
 - **[zkFuzz](https://zkfuzz.xyz/)**: ZK circuit fuzzer (IEEE S&P'26, 60+ confirmed bugs)
