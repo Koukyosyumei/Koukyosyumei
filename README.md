@@ -7,11 +7,29 @@ I’m a Ph.D. student in Computer Science at Columbia University working on soft
 ---
 
 ### 🚀 Featured Projects
-- **[zkFuzz](https://zkfuzz.xyz/)**                   : ZK circuit fuzzer (IEEE S&P'26, 60+ confirmed bugs)
-- **[Runwai](https://github.com/Koukyosyumei/Runwai)**: Refinement-typed DSL for certified AIR constraints and lookups implemented in Lean4
-- **[MyZKP](https://koukyosyumei.github.io/MyZKP/)**  : Tutorial e-book to implement zero-knowledge proofs from scratch using Rust and CUDA.
-- **[AIJack](https://koukyosyumei.github.io/AIJack/)**: Security risk simulator for machine learning (400+ stars on GitHub, 10K+ downloads, referenced in 10+ papers)
-- **[h5i](https://github.com/h5i-dev/h5i)**           : Next-Gen AI-Aware Git
+
+<table>
+<tr>
+<td><a href="https://zkfuzz.xyz/">zkFuzz</a></td>
+<td>ZK circuit fuzzer (IEEE S&P'26, 60+ confirmed bugs)</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Koukyosyumei/Runwai">Runwai</a></td>
+<td>Refinement-typed DSL for certified AIR constraints and lookups implemented in Lean4</td>
+</tr>
+<tr>
+<td><a href="https://koukyosyumei.github.io/MyZKP/">MyZKP</a></td>
+<td>Tutorial e-book to implement zero-knowledge proofs from scratch using Rust and CUDA.</td>
+</tr>
+<tr>
+<td><a href="https://koukyosyumei.github.io/AIJack/">AIJack</a></td>
+<td>Security risk simulator for machine learning (400+ stars on GitHub, 10K+ downloads, referenced in 10+ papers)</td>
+</tr>
+<tr>
+<td><a href="https://github.com/h5i-dev/h5i">h5i</a></td>
+<td>Next-Gen AI-Aware Git</td>
+</tr>
+</table>
 
 ---
 
