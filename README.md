@@ -11,7 +11,7 @@ I’m a Ph.D. student in Computer Science at Columbia University working on soft
 - **[Runwai](https://github.com/Koukyosyumei/Runwai)**: Refinement-typed DSL for certified AIR constraints and lookups implemented in Lean4
 - **[MyZKP](https://koukyosyumei.github.io/MyZKP/)**: Tutorial e-book to implement zero-knowledge proofs from scratch using Rust and CUDA.
 - **[AIJack](https://koukyosyumei.github.io/AIJack/)**: Security risk simulator for machine learning (400+ stars on GitHub, 10K+ downloads, referenced in 10+ papers)
-- **[KaijuLab](https://github.com/KaijuLab/KaijuLab)**: AI-powered Reverse Engineering Lab
+- **[h5i](https://github.com/h5i-dev/h5i)**: Next-Gen AI-Aware Git
 
 ---
 
