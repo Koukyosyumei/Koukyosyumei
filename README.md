@@ -50,6 +50,9 @@ I’m a Ph.D. student in Computer Science at Columbia University working on soft
 #### AI Agent / MCP servers
 
 - [CVE-2026-40608](https://github.com/DayuanJiang/next-ai-draw-io/security/advisories/GHSA-9q7h-wgfw-p378)
+- [CVE-2026-42078](https://github.com/icip-cas/PPTAgent/security/advisories/GHSA-hrcw-xc63-g29m)
+- [CVE-2026-42079](https://github.com/icip-cas/PPTAgent/security/advisories/GHSA-89g2-xw5c-v95p)
+- [CVE-2026-42080](https://github.com/icip-cas/PPTAgent/security/advisories/GHSA-pxhg-7xr2-w7xg)
 - https://github.com/Coding-Solo/godot-mcp/issues/95
 - https://github.com/bethington/ghidra-mcp/issues/107
 - https://github.com/bytebase/dbhub/issues/304
