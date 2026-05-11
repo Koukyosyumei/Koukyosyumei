@@ -2,7 +2,7 @@
 
 I’m a Ph.D. student in Computer Science at Columbia University working on software security, cryptography, and agentic systems.
 
-**Keywords:** Software Testing, Fuzzing, Formal Verification, AI, Agent, Cryptography, Zero Knowledge Proof, Rust, Lean4
+**Keywords:** Software Testing, AI, Fuzzing, Formal Verification, Microkernel, Cryptography, Zero Knowledge Proof, Rust, Lean4
 
 ---
 
