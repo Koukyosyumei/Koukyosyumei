@@ -10,20 +10,49 @@ I’m a Ph.D. student in Computer Science at Columbia University working on soft
 
 <table>
 <tr>
+<th>Project</th>
+<th>Description</th>
+<th>Stars</th>
+</tr>
+
+<tr>
 <td><a href="https://zkfuzz.xyz/">zkFuzz</a></td>
 <td>ZK circuit fuzzer (IEEE S&P'26, 60+ confirmed bugs)</td>
+<td>
+  <a href="https://github.com/Koukyosyumei/zkFuzz">
+    <img src="https://img.shields.io/github/stars/Koukyosyumei/zkFuzz?style=social" alt="GitHub stars">
+  </a>
+</td>
 </tr>
+
 <tr>
 <td><a href="https://koukyosyumei.github.io/MyZKP/">MyZKP</a></td>
 <td>Tutorial e-book to implement zero-knowledge proofs from scratch using Rust and CUDA.</td>
+<td>
+  <a href="https://github.com/Koukyosyumei/MyZKP">
+    <img src="https://img.shields.io/github/stars/Koukyosyumei/MyZKP?style=social" alt="GitHub stars">
+  </a>
+</td>
 </tr>
+
 <tr>
 <td><a href="https://koukyosyumei.github.io/AIJack/">AIJack</a></td>
-<td>Security risk simulator for machine learning (400+ stars on GitHub, 10K+ downloads, referenced in 10+ papers)</td>
+<td>Security risk simulator for machine learning (10K+ downloads, referenced in 10+ papers)</td>
+<td>
+  <a href="https://github.com/Koukyosyumei/AIJack">
+    <img src="https://img.shields.io/github/stars/Koukyosyumei/AIJack?style=social" alt="GitHub stars">
+  </a>
+</td>
 </tr>
+
 <tr>
 <td><a href="https://github.com/h5i-dev/h5i">h5i</a></td>
 <td>Next-Gen AI-Aware Git</td>
+<td>
+  <a href="https://github.com/h5i-dev/h5i">
+    <img src="https://img.shields.io/github/stars/Koukyosyumei/h5i?style=social" alt="GitHub stars">
+  </a>
+</td>
 </tr>
 </table>
 
