@@ -14,10 +14,6 @@ I’m a Ph.D. student in Computer Science at Columbia University working on soft
 <td>ZK circuit fuzzer (IEEE S&P'26, 60+ confirmed bugs)</td>
 </tr>
 <tr>
-<td><a href="https://github.com/Koukyosyumei/Runwai">Runwai</a></td>
-<td>Refinement-typed DSL for certified AIR constraints and lookups implemented in Lean4</td>
-</tr>
-<tr>
 <td><a href="https://koukyosyumei.github.io/MyZKP/">MyZKP</a></td>
 <td>Tutorial e-book to implement zero-knowledge proofs from scratch using Rust and CUDA.</td>
 </tr>
