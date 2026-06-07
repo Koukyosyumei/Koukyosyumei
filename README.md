@@ -9,10 +9,31 @@ I’m a Ph.D. student in Computer Science at Columbia University working on soft
 ### 🚀 Featured Projects
 
 <table>
+  
 <tr>
 <th>Project</th>
 <th>Description</th>
 <th>Stars</th>
+</tr>
+
+<tr>
+<td><a href="https://github.com/h5i-dev/h5i">h5i</a></td>
+<td>Next-Gen AI-Aware Git</td>
+<td>
+  <a href="https://github.com/h5i-dev/h5i">
+    <img src="https://img.shields.io/github/stars/Koukyosyumei/h5i?style=social" alt="GitHub stars">
+  </a>
+</td>
+</tr>
+
+<tr>
+<td><a href="https://koukyosyumei.github.io/AIJack/">AIJack</a></td>
+<td>Security risk simulator for machine learning (10K+ downloads, referenced in 10+ papers)</td>
+<td>
+  <a href="https://github.com/Koukyosyumei/AIJack">
+    <img src="https://img.shields.io/github/stars/Koukyosyumei/AIJack?style=social" alt="GitHub stars">
+  </a>
+</td>
 </tr>
 
 <tr>
@@ -35,25 +56,6 @@ I’m a Ph.D. student in Computer Science at Columbia University working on soft
 </td>
 </tr>
 
-<tr>
-<td><a href="https://koukyosyumei.github.io/AIJack/">AIJack</a></td>
-<td>Security risk simulator for machine learning (10K+ downloads, referenced in 10+ papers)</td>
-<td>
-  <a href="https://github.com/Koukyosyumei/AIJack">
-    <img src="https://img.shields.io/github/stars/Koukyosyumei/AIJack?style=social" alt="GitHub stars">
-  </a>
-</td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/h5i-dev/h5i">h5i</a></td>
-<td>Next-Gen AI-Aware Git</td>
-<td>
-  <a href="https://github.com/h5i-dev/h5i">
-    <img src="https://img.shields.io/github/stars/Koukyosyumei/h5i?style=social" alt="GitHub stars">
-  </a>
-</td>
-</tr>
 </table>
 
 ---
