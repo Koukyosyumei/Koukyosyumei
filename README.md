@@ -63,7 +63,7 @@ I’m a Ph.D. student in Computer Science at Columbia University working on soft
 ### 📄 Selected Publications
 - **[IEEE S&P '26]** 0️⃣: *zkFuzz: Foundation and Framework for Effective Fuzzing of Zero-Knowledge Circuits*
   - **Hideaki Takahashi**, Jihwan Kim, Suman Jana, Junfeng Yang | [paper](https://arxiv.org/pdf/2504.11961) | [code](https://github.com/Koukyosyumei/zkFuzz)
-- **[CCS '26]** 0️⃣: *Efficient Branch-and-Bound Testing and Verification of zkVMs.*
+- **[CCS '26]** 🦓: *Efficient Branch-and-Bound Testing and Verification of zkVMs.*
   - **Hideaki Takahashi**, Suman Jana, Junfeng Yang | [paper](https://arxiv.org/pdf/2609.15020v1) | [code](https://github.com/Koukyosyumei/ZEBRA)
 - **[AAMAS '24]** 🚗: *On the Transit Obfuscation Problem*
   - **Hideaki Takahashi**, Alex Fukunaga | [paper](https://arxiv.org/pdf/2402.07420) | [code](https://github.com/Koukyosyumei/TOP)
