@@ -18,7 +18,7 @@ I’m a Ph.D. student in Computer Science at Columbia University working on soft
 
 <tr>
 <td><a href="https://github.com/h5i-dev/h5i">h5i</a></td>
-<td>The Agent-Native Web Security Workspace</td>
+<td>Axum-based Rust web framework designed for formal verification with Lean 4</td>
 <td>
   <a href="https://github.com/h5i-dev/h5i">
     <img src="https://img.shields.io/github/stars/Koukyosyumei/h5i?style=social" alt="GitHub stars">
